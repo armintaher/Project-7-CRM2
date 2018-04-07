@@ -1,0 +1,1 @@
+/usr/bin/c++.exe    -Wl,--enable-auto-import  CMakeFiles/cmTC_d04f6.dir/feature_tests.cxx.o  -o cmTC_d04f6.exe -Wl,--out-implib,libcmTC_d04f6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
